@@ -1,6 +1,4 @@
-# This allows you to establish a tunnel from your machine into google colab and code locally!
-# Hopefully a better UI and code completion
-# Additionally run other codes than PY :) 
+# This allows you to establish a tunnel from your machine into google colab and code locally! Hopefully a better UI and code completion. Additionally run other codes than PY :) 
 
 ## Mount Drive
 
